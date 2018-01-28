@@ -1,0 +1,19 @@
+.heading{
+	margin-bottom: 50px;
+	padding: 10px;
+	background-color: #000066;
+	text-align: center;
+	color: white;
+	font-size: 27px;
+	margin-top: 51px;
+}
+
+#achiever{
+	padding: 10px;
+	background-color: #337ab7;
+	text-align: center;
+	color: white;
+	display: inline-block;
+	float: right;
+	margin-right: 5px;
+}
